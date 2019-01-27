@@ -8,4 +8,8 @@ This projects tests multiple ways of giving more meaningful information together
    - https://github.com/zalando/problem
    - https://github.com/zalando/problem-spring-web/tree/master/problem-spring-web  
    2. Using custom exceptions with Spring ```ResponseStatus```
-   3. Using ```ResponseStatusException```
+   3. Using Spring ```ResponseStatusException```
+
+# Technology Stack
+- Spring Boot
+- Kotlin
